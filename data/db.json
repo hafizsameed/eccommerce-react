@@ -1,0 +1,208 @@
+{
+    "Products": [
+        {
+            "title": "Razer Blade 15",
+            "snippet": "  - Full HD 360Hz - GeForce RTX 3070 Ti - Black Flagship 15-inch Laptop for Power and Portability",
+            "img": "https://assets3.razerzone.com/UUODnE8z5w_1YhkDj3Gzf2wPwO8=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2d%2Fhe5%2F9392073998366%2Fblade15-ch8-fhd-2-500x500.png",
+            "price": 89,
+            "sale": true,
+            "category": "gaming",
+            "id": 1
+        },
+        {
+            "title": "Razer Blade 14 ",
+            "snippet": "Full HD 144Hz - GeForce RTX 3060 - Black 14-inch Gaming Laptop with AMD Ryzen™ 6900HX",
+            "img": "https://assets3.razerzone.com/YHF3HVs3KUYyyV2fvy5lsTFNFIg=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbd%2Fh06%2F9286402375710%2Fblade14-p8-fhd-500x500.png",
+            "price": 59,
+            "category": "gaming",
+            "id": 2
+        },
+        {
+            "title": "Razer Blade 17",
+            "snippet": "QHD 240Hz - GeForce RTX 3070 Ti - Black Desktop Replacement Laptop with 12th Gen Processors",
+            "img": "https://assets3.razerzone.com/nu_cx2Px8X99ayBPPq2Z_1vldcM=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh71%2Fh9a%2F9392074063902%2Fblade17-d8-fhd-2-500x500.png",
+            "price": 149,
+            "sale": true,
+            "category": "gaming",
+            "id": 3
+        },
+        {
+            "title": "Razer DeathAdder V2 X HyperSpeed",
+            "snippet": "Wireless Gaming Mouse with Best-In-Class Ergonomics",
+            "img": "https://assets2.razerzone.com/images/pnx.assets/1c0086b0a6e4f10fb5336b509de738ce/razer-deathadder-v2-x-hyperspeed_500x500.png",
+            "price": 119,
+            "category": "gaming",
+            "id": 4
+        },
+        {
+            "title": "Razer DeathAdder V3",
+            "snippet": "Ultra-lightweight Ergonomic Esports Mouse",
+            "img": "https://assets2.razerzone.com/images/pnx.assets/e6a3395a20df28e86d0ed61b30973bf4/500x500-dav3.png",
+            "price": 149,
+            "sale": true,
+            "category": "gaming",
+            "id": 5
+        },
+        {
+            "title": "Razer Basilisk V3",
+            "snippet": "Customizable Ergonomic Gaming Mouse with Razer Chroma™ RGB",
+            "img": "https://assets2.razerzone.com/images/pnx.assets/a0ed073e67e2ce06cbf4f6c40c79b6ad/basilisk-v3_500x500.png",
+            "price": 129,
+            "sale": true,
+            "category": "gaming",
+            "id": 6
+        },
+        {
+            "title": "Logitech | G502",
+            "snippet": " Iconic G502 design meets pro-grade LIGHTSPEED wireless for ultra-fast, reliable connectivity.",
+            "img": "https://resource.logitechg.com/w_386,ar_1.0,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/gaming/en/products/g502-lightspeed-gaming-mouse/g502-lightspeed-gallery-1.png?v=1",
+            "price": 149,
+            "sale": true,
+            "category": "gaming",
+            "id": 7
+        },
+        {
+            "title": "G903",
+            "snippet": "Ultimate gaming mouse. Ultralow-latency LIGHTSPEED wireless.",
+            "img": "https://resource.logitechg.com/w_692,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g903/g903-gallery-1.png?v=1",
+            "price": 79,
+            "category": "gaming",
+            "id": 8
+        },
+        {
+            "title": "Finn Coffee Table W-18",
+            "snippet": "Finn Coffee Table is a classic addition to your lounge",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/tables-furniture-finn-coffee-table-w-18-18189265961121.jpg?v=1662960310",
+            "price": 149,
+            "sale": true,
+            "category": "Decour",
+            "id": 9
+        },
+        {
+            "title": "Oscar TV Unit 4031",
+            "snippet": "Oscar TV Unit is a perfect modern table with combination of lamination to enhance your living room. It is the perfect compliment to your range of Sofas",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/tv-wall-units-furniture-oscar-tv-unit-4031-18201188401313.jpg?v=1662961270",
+            "price": 429,
+            "sale": true,
+            "category": "Decour",
+            "id": 10
+        },
+        {
+            "title": "Osborne L Shape TV Unit W-18",
+            "snippet": "Osborne L shaped TV Unit is a perfect modern table with combination of lamination to enhance your living room",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/tv-wall-units-furniture-osborne-l-shape-tv-unit-w-18-18189403095201.jpg?v=1662960652",
+            "price": 229,
+            "category": "Decour",
+            "id": 11
+        },
+        {
+            "title": "Ross X Sofa Modern & Stylish Living Room Sofa",
+            "snippet": "Rich green hues with velvety touch make this one of our hottest selling sofa sets to date.",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/113.jpg?v=1671442436",
+            "price": 449,
+            "category": "Decour",
+            "id": 12
+        },
+        {
+            "title": "Display Shelve 19195",
+            "snippet": "Product Type: Décor",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/new-arrivals-decor-display-shelve-19195-36678210584794.jpg?v=1662982236g",
+            "price": 549,
+            "category": "Decour",
+            "id": 13
+        },
+        {
+            "title": "OPULENT Executive Table with Side Rack",
+            "snippet": " The OPULENT Executive Table with Side Rack is a beautifully crafted table made from solid red oak",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/office-furniture-furniture-opulent-executive-table-with-side-rack-37047340499162.jpg?v=1662983905",
+            "price": 349,
+            "category": "Decour",
+            "id": 14
+        },
+        {
+            "title": "Finn TV unit W-18",
+            "snippet": " The Finn TV unit is a mounted board ideal for wall fixed TVs up to 52 Inches.",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/tv-wall-units-furniture-finn-tv-unit-w-18-37236066386138.jpg?v=1662960648",
+            "price": 349,
+            "category": "Decour",
+            "id": 15
+        },
+        {
+            "title": "Bauer TV unit W-18 ",
+            "snippet": " Bauer TV unit is a TV storage with minimalistic design that utilizes the space better ",
+            "img": "https://cdn.shopify.com/s/files/1/0429/7654/2881/products/tv-wall-units-furniture-bauer-tv-unit-w-18-18189403390113.jpg?v=1662960665",
+            "price": 329,
+            "sale": true,
+            "category": "Decour",
+            "id": 16
+        },
+        {
+            "title": "Men's ColdGear® Compression Mock",
+            "snippet": " We all hate it. That stiff, distracted feeling you get when you're out in the cold. That's why, we built a baselayer that keeps you warm and dry without being bulky or riding up, so you can stay focused all season long.",
+            "img": "https://underarmour.scene7.com/is/image/Underarmour/V5-1366072-001_FC?rp=standard-0pad|pdpZoomDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=1500,1500",
+            "price": 49,
+            "category": "clothing",
+            "id": 17
+        },
+        {
+            "title": "Women's HeatGear® Compression Short Sleeve",
+            "snippet": "HeatGear® is our original performance baselayer—the one you put on first and take off last. So we made it extra comfortable by wicking sweat and stretching so you can move no matter what. ",
+            "img": "https://underarmour.scene7.com/is/image/Underarmour/V5-1365460-001_FC?rp=standard-0pad|pdpZoomDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=1500,1500",
+            "price": 39,
+            "sale": true,
+            "category": "clothing",
+            "id": 18
+        },
+        {
+            "title": "315 SEAMLESS T-SHIRT",
+            "snippet": "315 is designed to fade seamlessly into the background, so you can tune out the world as you walk out, lock out and go 9 for 9",
+            "img": "https://cdn.shopify.com/s/files/1/1367/5201/files/315SsSeamlessT-ShirtFrostTeal-InkTealA2A9W-TBHQ-0476_1920x.jpg?v=1684919193",
+            "price": 53,
+            "category": "clothing",
+            "id": 19
+        },
+        {
+            "title": "CORE LONG SLEEVE T-SHIRT",
+            "snippet": "Workout or chill-out ready, the Core collections versatile basics can be mixed with any of your other Gymshark faves.",
+            "img": "https://cdn.shopify.com/s/files/1/1367/5201/files/GfxCoreRegularLsT-ShirtBlack-A4A3W-BBBB.219_1920x.jpg?v=1684919198",
+            "price": 35,
+            "category": "clothing",
+            "id": 20
+        },
+        {
+            "title": "POWER T-SHIRT",
+            "snippet": " The Power collection is made to fail with you, time and time again.",
+            "img": "https://cdn.shopify.com/s/files/1/1367/5201/products/PowerT-Shirt-A2A1X-BBBB.A-Edit_CM_5ea84870-c171-4897-bc81-7abc1ac92edb_256x.jpg?v=1660210071",
+            "price": 50,
+            "category": "clothing",
+            "id": 21
+        },
+        {
+            "title": "ESSENTIAL OVERSIZED T-SHIRT",
+            "snippet": "Our Essential collection takes it back to basics and does it well ",
+            "img": "https://cdn.shopify.com/s/files/1/1367/5201/products/EssentialOversizedT-ShirtIcyBlue-A1A3E-UBZN-1468.166_be8cc036-8009-48de-bf5a-6cb1199a8b99_1920x.jpg?v=1674640797",
+            "sale": true,
+            "price": 69,
+            "category": "clothing",
+            "id": 22
+        },
+        {
+            "title": "Nike Pro Dri-FIT",
+            "snippet": " The Nike Pro Dri-FIT Top hugs you in lightweight fabric with breathability built into heat zones to help keep you cool and dry from warmups through cool downs",
+            "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cbcf281a-221b-48e0-9ef9-5e729711a432/pro-dri-fit-mens-tight-fit-short-sleeve-top-CJMnlQ.png",
+            "price": 79,
+            "category": "clothing",
+            "id": 23
+        },
+        {
+            "title": "Nike Pro Dri-FIT",
+            "snippet": " The Nike Pro Dri-FIT Top layers you in lightweight fabric with breathability built into heat zones to keep you cool and dry from warmups through cool downs.",
+            "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/543c7d88-5e15-4b44-90a1-4b30b4626b71/pro-dri-fit-mens-slim-fit-long-sleeve-top-9rR6dS.png",
+            "price": 59,
+            "sale": true,
+            "category": "clothing",
+            "id": 24
+            
+        }
+    ]
+}

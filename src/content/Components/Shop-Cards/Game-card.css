@@ -1,0 +1,217 @@
+.body {
+    overflow: hidden;
+    width: 100vw;
+}
+
+
+
+.cards {
+    overflow: hidden;
+    /* background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(100, 43, 115, 1) 0%, rgba(4, 0, 4, 1) 90%); */
+    /* background: linear-gradient(180deg, rgb(38, 54, 75) 0%, rgb(54, 41, 41) 100%); */
+    /* background: url("https://static.vecteezy.com/system/resources/previews/002/597/340/original/dark-black-hexagon-pattern-on-red-orange-neon-abstract-background-in-technology-style-modern-futuristic-geometric-shape-web-banner-design-you-can-use-for-cover-template-poster-illustration-vector.jpg"); */
+    /* background: url("https://t4.ftcdn.net/jpg/03/92/91/71/360_F_392917105_5IEG3gYWQBRwAJPSBjiVyJn4KjnL0b0v.jpg"); */
+    /* background: url("https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1410.jpg"); */
+    /* background: linear-gradient(274deg, rgb(84, 168, 116) 10%, rgb(31, 58, 42) 70%); */
+    background: linear-gradient(274deg, rgb(129, 14, 10) 10%, rgb(58, 16, 23) 70%);
+    padding-bottom: 6px;
+    box-shadow: 13px 10px 2px 10px black;
+}
+
+
+
+.product-container-wrapper {
+    position: relative;
+    /* border: 2px solid red; */
+    width: 100vw;
+    overflow: hidden;
+    height: 560px;
+}
+
+.game {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    transition: left 500ms ease-in-out;
+    left: 0px;
+    /* overflow: hidden; */
+
+
+}
+
+
+
+.game-card {
+    position: relative;
+    /* border: 2px solid purple; */
+    cursor: pointer;
+    margin-right: 7px;
+    background: white;
+    width: 550px;
+    height: 520px;
+    border-radius: 13px;
+    transition: transform 7.9ms ease-in;
+}
+
+
+
+
+
+.sale-cardtag{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    right: 0;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+.sale-cardtag-p {
+    border-top-right-radius: 13px;
+    border-bottom-left-radius: 13px;
+    font-size: 1.3rem;
+    border: 2px solid red;
+    width: 25%;
+    padding-bottom: 3px;
+    padding-right: 3px;
+    background: red;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+.game-card:hover {
+    /* background: #000; */
+    transform: translateY(20px);
+
+}
+
+
+
+
+
+
+
+.game-title {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* background: blue; */
+    width: 100%;
+    /* padding-bottom: 7px; */
+}
+
+
+
+.game-title h2 {
+    width: 70%;
+    /* height: 100%; */
+    font-size: 2rem;
+    /* background: #000; */
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 7px;
+    border-bottom: 2px solid white;
+    /* border-bottom-right-radius: 25px; */
+}
+
+
+
+
+.card-img {
+    object-fit: cover;
+    width: 100%;
+    height: 90%;
+    border-radius: 13px;
+}
+
+
+
+
+.game-card h3 {
+    text-align: center;
+    font-size: 1.4rem;
+    padding-bottom: 14px;
+    width: 70%;
+    border-bottom: 3px solid white;
+
+}
+
+
+.card-title {
+    position: absolute;
+    top: 0px;
+    background: rgba(32, 5, 5, 0.5);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    border-radius: 13px;
+    opacity: 0;
+}
+
+
+
+.card-title:hover {
+    opacity: 1;
+    box-shadow: 0px 2px 10px 1px white;
+}
+
+
+
+
+.arrows {
+    padding-bottom: 15px;
+    padding-right: 35px;
+    text-align: right;
+
+}
+
+.carosal-left {
+    background: white;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 30%;
+    width: 48px;
+}
+
+
+
+.carosal-left:hover {
+    background: #979797;
+}
+
+
+
+
+
+.carosal-right {
+    background: white;
+    cursor: pointer;
+    transform: rotateZ(-180deg);
+    padding: 5px;
+    border-radius: 30%;
+    margin-right: 10px;
+    width: 48px;
+}
+
+
+
+.carosal-right:hover {
+    background: #979797;
+}

@@ -1,0 +1,70 @@
+.home-dec {
+    background: darkblue;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+
+
+
+.dec-details {
+    position: absolute;
+    left: 124px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+    padding: 15px;
+    padding-right: 0px;
+    color: white;
+    background: transparent;
+    font-size: 3rem;
+    padding-bottom: 14px;
+    width: 80%;
+    /* border-bottom: 3px solid white; */
+}
+
+
+
+.dec-details h3 {
+    width: 40%;
+    background: white;
+    color: red;
+    padding-bottom: 6px;
+}
+
+.dec-details h2 {
+    border-bottom: 1px solid white;
+    padding-bottom: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.game-bg3{
+    opacity: 0.8;
+    width: 100%;
+    height: auto;
+}
